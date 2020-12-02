@@ -13,8 +13,8 @@
   http://172.24.19.33:3000/unionpay_wechat_tool.git
 
 外网：
-  项目组vpn账号：up_jm100057@unionpay.com
-  密码：Upwc@9999
+  访问http://sslvpn.unionpay.com
+  账号请联系组长获取
   连接vpn后再访问内网地址
 
 ### 订阅号和服务号，在maven项目中添加：
