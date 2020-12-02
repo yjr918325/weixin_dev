@@ -10,7 +10,7 @@
 
 ### 项目地址
 内网：
-  http://172.24.19.33:3000/unionpay_wechat_tool.git
+  http://172.24.19.33:3000/unionpay_wechat_tool.git
 
 外网：
   项目组vpn账号：up_jm100057@unionpay.com
